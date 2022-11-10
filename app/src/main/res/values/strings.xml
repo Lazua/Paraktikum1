@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Paraktikum1(2)</string>
+    <string name="length">panjang</string>
+    <string name="width">lebar</string>
+    <string name="height">tinggi</string>
+    <string name="calculate">calculate</string>
+    <string name="result">hasil</string>
+    <string name="biodata">BIODATA</string>
+    <string name="nama_depan">Nama depan</string>
+    <string name="nama_belakang">Nama belakang</string>
+</resources>
